@@ -1,4 +1,4 @@
-package com.coderlucifar.leetcode.week02;
+package com.coderlucifar.leetcode.week02.linklist;
 
 /**
  * leetcode19：删除链表中的倒数第N个节点(中等)

@@ -1,4 +1,4 @@
-package com.coderlucifar.leetcode.week02;
+package com.coderlucifar.leetcode.week02.linklist;
 
 /**
  * leetcode141: 环形链表    判断链表中是否存在环

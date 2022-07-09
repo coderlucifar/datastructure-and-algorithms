@@ -1,4 +1,4 @@
-package com.coderlucifar.leetcode.week02;
+package com.coderlucifar.leetcode.week02.linklist;
 
 /**
  * leetcode25: K个一组翻转链表(困难)

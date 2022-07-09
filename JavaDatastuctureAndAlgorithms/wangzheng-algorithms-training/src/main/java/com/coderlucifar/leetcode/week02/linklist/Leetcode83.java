@@ -1,4 +1,4 @@
-package com.coderlucifar.leetcode.week02;
+package com.coderlucifar.leetcode.week02.linklist;
 
 /**
  * leetcode83: 删除排序链表中的重复元素

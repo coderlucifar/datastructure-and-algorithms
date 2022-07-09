@@ -1,4 +1,4 @@
-package com.coderlucifar.leetcode.week02;
+package com.coderlucifar.leetcode.week02.linklist;
 
 /**
  * leetcode2：两数相加

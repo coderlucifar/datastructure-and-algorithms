@@ -1,6 +1,4 @@
-package com.coderlucifar.leetcode.week02;
-
-import com.sun.xml.internal.bind.v2.schemagen.xmlschema.List;
+package com.coderlucifar.leetcode.week02.linklist;
 
 /**
  * leetcode234: 回文链表

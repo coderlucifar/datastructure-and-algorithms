@@ -1,6 +1,4 @@
-package com.coderlucifar.leetcode.week02;
-
-import java.util.List;
+package com.coderlucifar.leetcode.week02.linklist;
 
 /**
  * leetcode160: 相交链表(简单)
