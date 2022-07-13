@@ -1,4 +1,4 @@
-package com.coderlucifar.leetcode.week05.hashtable;
+package com.coderlucifar.leetcode.week05.hashtable.medium;
 
 import java.util.ArrayList;
 import java.util.List;
