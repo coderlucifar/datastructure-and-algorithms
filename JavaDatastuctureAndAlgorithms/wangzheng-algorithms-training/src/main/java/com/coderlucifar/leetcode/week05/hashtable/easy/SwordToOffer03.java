@@ -1,7 +1,6 @@
 package com.coderlucifar.leetcode.week05.hashtable.easy;
 
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
 /**

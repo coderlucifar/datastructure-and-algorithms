@@ -1,10 +1,11 @@
 package com.coderlucifar.leetcode.week05.hashtable.easy;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 /**
  * leetcode349: 两个数组的交集
+ *
+ *  进阶：k个数组求交集。
  */
 public class Leetcode349 {
     class Solution {
