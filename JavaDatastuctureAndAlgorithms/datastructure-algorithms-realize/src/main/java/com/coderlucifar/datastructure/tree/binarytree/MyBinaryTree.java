@@ -1,6 +1,5 @@
 package com.coderlucifar.datastructure.tree.binarytree;
 
-import java.awt.*;
 import java.util.Stack;
 
 /**
