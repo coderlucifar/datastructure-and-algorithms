@@ -1,4 +1,4 @@
-package com.coderlucifar.datastructure.array;
+package com.coderlucifar.datastructure.array_list;
 
 import java.util.Arrays;
 

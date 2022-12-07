@@ -1,4 +1,4 @@
-package com.coderlucifar.datastructure.linklist;
+package com.coderlucifar.datastructure.linked_list;
 
 /**
  * 实现单链表

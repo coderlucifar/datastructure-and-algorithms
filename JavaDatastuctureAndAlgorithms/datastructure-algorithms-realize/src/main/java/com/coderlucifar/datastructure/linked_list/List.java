@@ -1,4 +1,4 @@
-package com.coderlucifar.datastructure.linklist;
+package com.coderlucifar.datastructure.linked_list;
 
 /**
  * 链表的顶级接口
